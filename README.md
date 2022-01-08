@@ -1,0 +1,2 @@
+# ECG-device-with-classification
+In this project, a Arduino based circuit is used to record the ECG. AD8232 ECG sensor is connected with  Arduino and the electrodes to get the desired signal. After acquiring the signal, it is preprocessed and then neural network model composed of 01 input layer, 3 hidden layers and 01 output layer is implemented using tensor flow and keras for classification and comparison of normal and abnormal person ECG. 
